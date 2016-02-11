@@ -1,2 +1,0 @@
-# LocateYourShop
-Business Directory
